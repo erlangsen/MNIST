@@ -1,3 +1,3 @@
 # MNIST
 
-My Learning script with CNN using Mnist datastes.
+My Learning scripts with Neural Network in Mnist.
